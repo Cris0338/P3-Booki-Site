@@ -130,12 +130,14 @@ a {
 }
 
 /****** Search frame ******/
+
 .framesearch {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    width: 335px;
+    width: 100%;
     height: 49px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border-radius: 15px;
 }
 
 .poi {
@@ -151,14 +153,6 @@ a {
 
 .framesearch .fa-solid {
     color: black;
-}
-
-.framesearch {
-    width: 100%;
-    height: 49px;
-    display: flex;
-    align-items: center;
-    border-radius: 15px;
 }
 
 .search-box {
