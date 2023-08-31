@@ -749,18 +749,18 @@ a {
         padding: 0 30px;
     }
 
-    .activities-cards {
+    .activities__cards {
         width: 100%;
         flex-direction: column;
         gap: 15px;
         padding: 0px;
     }
 
-    .activities-cards img {
+    .activities__cards img {
         height: 141px;
     }
 
-    .activities-cards .card {
+    .activities__cards .card {
         width: 100%;
     }
 
